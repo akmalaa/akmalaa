@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akmalaa
-- 👀 I’m interested i nweb developement
+- 👀 I’m interested in web developement
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: just email me @ akmalaanwar@gmail.com
